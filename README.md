@@ -1,2 +1,2 @@
-# non-euclidian-stencil-shader
-Non Euclidian stencil shader with a demo scene for Unity!
+# non-euclidean-stencil-shader
+Non Euclidean stencil shader with a demo scene for Unity!
